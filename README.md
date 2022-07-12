@@ -77,8 +77,6 @@ $ npm start
 
 - **[Typescript](https://www.typescriptlang.org/)**
 
-> Veja o arquivo [package.json]()
+> Veja o arquivo [package.json](https://github.com/RenatoAlbuquerque/MontyHall/blob/main/package.json)
 
-```
 
-```
